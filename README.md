@@ -6,7 +6,7 @@ Se generaron simulaciones numéricas para entender y visualizar el comportamient
 
 ## Visualizaciones con Matplotlib
 
-Se encuentran en la carpeta [`sim_matplotlib`](https://github.com/clausia/dipoles-electromagnetic-fields/tree/main/codigo/sim_manim) y el código fue escrito dentro de Jupyter notebooks, para su fácil asociación con los resultados. Los archivos principales son:
+Se encuentran en la carpeta [`sim_matplotlib`](https://github.com/clausia/dipoles-electromagnetic-fields/tree/main/codigo/sim_matplotlib) y el código fue escrito dentro de Jupyter notebooks, para su fácil asociación con los resultados. Los archivos principales son:
 
 - `ejemplos-campos-electricos.ipynb` que contiene el código utilizado para mostrar cómo se ven los campos eléctricos bajo distintas circunstancias, las imágenes generadas aquí fueron utilizadas principalmente en el capítulo 3
 - `ejemplos-campos-magneticos.ipynb` contiene el código utilizado para mostrar cómo se ven los campos magnéticos, las imágenes fueron utilizadas principalmente en el capítulo 5
