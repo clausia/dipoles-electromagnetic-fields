@@ -9,7 +9,9 @@ Se generaron simulaciones numéricas para entender y visualizar el comportamient
 Se encuentran en la carpeta [`sim_matplotlib`](https://github.com/clausia/dipoles-electromagnetic-fields/tree/main/codigo/sim_matplotlib) y el código fue escrito dentro de Jupyter notebooks, para su fácil asociación con los resultados. Los archivos principales son:
 
 - `ejemplos-campos-electricos.ipynb` que contiene el código utilizado para mostrar cómo se ven los campos eléctricos bajo distintas circunstancias, las imágenes generadas aquí fueron utilizadas principalmente en el capítulo 3
+  - video de ejemplo de un campo eléctrico que cambia en el tiempo debido a dos cargas puntuales que giran alrededor de un eje central [aquí](https://youtube.com/shorts/86c-Wf0O1vE?feature=share)
 - `ejemplos-campos-magneticos.ipynb` contiene el código utilizado para mostrar cómo se ven los campos magnéticos, las imágenes fueron utilizadas principalmente en el capítulo 5
+  - video de ejemplo de un campo magnético que cambia en el tiempo debido a dos imanes en forma de barra que giran alrededor de su propio eje [aquí](https://youtube.com/shorts/apRpoaPDMTQ?feature=share)
 
 ## Visualizaciones con Manim
 
